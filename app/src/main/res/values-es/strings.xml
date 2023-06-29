@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Barcode Scanner</string>
+    <string name="number">Número</string>
+    <string name="names">Nombres</string>
+    <string name="lastnames">Apellidos</string>
+    <string name="birthdate">Fecha de nacimiento</string>
+    <string name="birthplace">Lugar de nacimiento</string>
+    <string name="bloodtype">Grupo sanguineo</string>
+    <string name="gender">Genero</string>
+    <string name="identification_document">Escáner de Documento de Identidad</string>
+    <string name="scan">Escanéar</string>
+    <string name="document_type">Tipo de documento</string>
+    <string name="male">Masculino</string>
+    <string name="female">Femenino</string>
+</resources>

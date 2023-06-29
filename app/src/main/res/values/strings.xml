@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Barcode Scanner</string>
+    <string name="number">Number</string>
+    <string name="names">Names</string>
+    <string name="lastnames">Lastnames</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="birthplace">Birthplace</string>
+    <string name="bloodtype">Blood type</string>
+    <string name="gender">Gender</string>
+    <string name="identification_document">ID Scanner</string>
+    <string name="scan">Scan</string>
+    <string name="document_type">Document type</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>
